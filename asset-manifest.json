@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/M-OdhieP/react-app-multiple-page/static/css/main.f6d39089.css",
-    "main.js": "/M-OdhieP/react-app-multiple-page/static/js/main.536ae301.js",
-    "static/js/787.081142c8.chunk.js": "/M-OdhieP/react-app-multiple-page/static/js/787.081142c8.chunk.js",
-    "index.html": "/M-OdhieP/react-app-multiple-page/index.html",
-    "main.f6d39089.css.map": "/M-OdhieP/react-app-multiple-page/static/css/main.f6d39089.css.map",
-    "main.536ae301.js.map": "/M-OdhieP/react-app-multiple-page/static/js/main.536ae301.js.map",
-    "787.081142c8.chunk.js.map": "/M-OdhieP/react-app-multiple-page/static/js/787.081142c8.chunk.js.map"
+    "main.css": "/react-app-multiple-page/static/css/main.f6d39089.css",
+    "main.js": "/react-app-multiple-page/static/js/main.fcf8e5a2.js",
+    "static/js/787.081142c8.chunk.js": "/react-app-multiple-page/static/js/787.081142c8.chunk.js",
+    "index.html": "/react-app-multiple-page/index.html",
+    "main.f6d39089.css.map": "/react-app-multiple-page/static/css/main.f6d39089.css.map",
+    "main.fcf8e5a2.js.map": "/react-app-multiple-page/static/js/main.fcf8e5a2.js.map",
+    "787.081142c8.chunk.js.map": "/react-app-multiple-page/static/js/787.081142c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6d39089.css",
-    "static/js/main.536ae301.js"
+    "static/js/main.fcf8e5a2.js"
   ]
 }
