@@ -8,7 +8,12 @@ export default function Home() {
       <h1>Welcome to My React Web Multiple Page</h1>
       <h3>Created with React CRA</h3>
       <div className="d-flex justify-content-between">
-        <img src="/ayaka.gif" alt="" className="rounded-2" style={imgStyle} />
+        <img
+          src="/react-app-multiple-page/ayaka.gif"
+          alt=""
+          className="rounded-2"
+          style={imgStyle}
+        />
         <ListGroup className="m-auto">
           <ListGroup.Item
             className="text-light fw-bold"
@@ -20,7 +25,12 @@ export default function Home() {
           <ListGroup.Item>Bootstrap Icon React</ListGroup.Item>
           <ListGroup.Item>React Router</ListGroup.Item>
         </ListGroup>
-        <img src="/qiqi.gif" alt="" className="rounded-2" style={imgStyle} />
+        <img
+          src="/react-app-multiple-page/qiqi.gif"
+          alt=""
+          className="rounded-2"
+          style={imgStyle}
+        />
       </div>
     </section>
   );

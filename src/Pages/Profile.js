@@ -7,7 +7,7 @@ export default function Profile() {
       <Row>
         <Col>
           <img
-            src="/odhie.webp"
+            src="/react-app-multiple-page/odhie.webp"
             alt="odhie"
             className="img-fluid  mx-0 border rounded-2"
           />
